@@ -26,7 +26,7 @@ INSERT INTO CommissionedOfficers (OfficerID, Rank, FirstName, LastName, Age, Bra
 (7, 'CDR', 'Hina', 'Shah', 42, 'Operations', 20, 'Peshawar', 160000),
 (8, 'LT', 'Usman', 'Ali', 28, 'Engineering', 5, 'Gujranwala', 90000),
 (9, 'CAPT', 'Fatima', 'Iqbal', 36, 'Operations', 15, 'Hyderabad', 175000),
-(10, 'LT', 'Danish', 'Akhtar', 27, 'Logistics', 4, 'Faisalabad', 80000);
+(10, 'LT', 'Gulfam', 'Akhtar', 27, 'Logistics', 4, 'Faisalabad', 80000);
 
 -- 4️⃣ Update Salaries for Officers from Faisalabad (FSD)
 -- LT officers get 100,000
